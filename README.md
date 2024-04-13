@@ -26,7 +26,7 @@
 </details>
 
 
-## Vacuum Cleaning Robot
+## Cleaning Robot App
 
 ### About
 Cleaning Robot App serves as a remote control for your cleaning and vacuum robot, allowing you to effortlessly clean dirty floors with the convenience of your smartphone or tablet. Just like operating a car with a remote control, our intuitive app lets you maneuver your cleaning robot across various floor surfaces.
